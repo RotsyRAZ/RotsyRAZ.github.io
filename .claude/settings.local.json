@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Dossiers/Ketrika/Portfolio/**)",
+      "Bash(npm install *)",
+      "Bash(mkdir \"C:\\\\Dossiers\\\\Ketrika\\\\Portfolio\\\\src\\\\components\")",
+      "Bash(mkdir \"C:\\\\Dossiers\\\\Ketrika\\\\Portfolio\\\\src\\\\context\")",
+      "Bash(mkdir \"C:\\\\Dossiers\\\\Ketrika\\\\Portfolio\\\\src\\\\data\")",
+      "Bash(npm run *)"
+    ]
+  }
+}
